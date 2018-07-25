@@ -1,6 +1,10 @@
-#!/usr/bin/python
-# Michael.Maher
-# www.github.com/Micro-EG
+#!/usr/bin/python3
+# N:Michael.Maher
+# Ni:0xM3K3
+# Git:www.github.com/0xM3K3
+# F:www.facebook.com/maykeel.maher
+
+
 import os
 
 os.system('cls' if os.name == 'nt' else 'clear')
