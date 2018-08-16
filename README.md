@@ -1,9 +1,9 @@
-##########################
-#          Author        #
+
+
 #          0xM3K3        #
 #         Micro-EG       #
 #       Michael Maher    #
-##########################
+
 
 
 This Script Used To Protect important php web files By Password 
